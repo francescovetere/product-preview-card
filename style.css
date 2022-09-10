@@ -217,7 +217,7 @@ body {
 
 .cta::before {
   content: "";
-  background-image: url(/images/icon-cart.svg);
+  background-image: url(https://raw.githubusercontent.com/francescovetere/product-preview-card/main/public/images/icon-cart.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 20px;
