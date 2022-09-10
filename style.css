@@ -136,7 +136,7 @@ body {
 
 /* Card */
 .card {
-  width: clamp(300px, 90%, 500px);
+  width: clamp(300px, 90%, 400px);
   background-color: var(--clr-neutral-100);
   border-radius: var(--border-radius);
 }
